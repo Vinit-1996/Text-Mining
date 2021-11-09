@@ -1,2 +1,3 @@
 # Text-Mining
- Performing Sentimental Analysis on tweet
+ Performing Sentimental Analysis on Tweets and Amazon Reviews
+ 
